@@ -1,3 +1,8 @@
+/*
+  	Copyright (c) 2012 Somenath Mukhopadhyay.
+ 	All rights reserved.
+ */
+
 package somitsolutions.android.unitconverter;
 
 public class VolumeStrategy implements Strategy {
